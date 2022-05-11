@@ -1,0 +1,5 @@
+project: cargo-hack
+target: remove_dev_deps
+
+cmds:
+    - cmd: /remove_dev_deps
